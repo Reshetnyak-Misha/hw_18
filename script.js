@@ -1,5 +1,5 @@
 let name = "ami";
-console.log("NaN" + name);
+console.log(NaN + name);
 
 const person1 = {
     Name: "Mark",
